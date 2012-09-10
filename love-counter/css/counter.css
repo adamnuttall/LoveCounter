@@ -1,0 +1,12 @@
+a.lovecounter {
+    background: #fff url(images/heart1.png) no-repeat;
+    height:  32px;
+    width: 32px;
+    display: block;
+    text-indent: -99999px;
+    cursor: pointer;
+}
+
+.single a.lovecounter {
+    display: none;
+}
